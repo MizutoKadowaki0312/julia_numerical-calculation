@@ -18,7 +18,7 @@ dot operatorについては
 https://qiita.com/Mizuto_Kadowaki/items/9e56b22e7b33416b024f
 =#
 
-h(x) = sin.(x)
+h(x) = cos.(x)
 
 println(h(A))
 
