@@ -1,7 +1,7 @@
 using Plots
 
 
-x = -π:0.01:π
+x = -2π:0.001:2π
 f(x) = sin(x)
 g(x) = cos(x)
 Δx = 0.01
