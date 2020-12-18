@@ -26,7 +26,7 @@ h(x) = cos.(x)
 
 println(h(A))
 println(h(B))
-
+println(h(C))
 
 plot([f,f′,g])
 
