@@ -12,8 +12,10 @@ println(typeof(x))
 
 A = [1.0 , 2.0 , 3.0]
 B = [2.0 , 4.0 , 6.0]
+C = [1.0 , 3.0 , 5.0]
 print(typeof(A)
 print(typeof(B)
+print(typeof(C)
 
 #=
 dot operatorについては
